@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0174-dungeon-game) |
 | [0217-contains-duplicate](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0217-contains-duplicate) |
+| [0289-game-of-life](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0289-game-of-life) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0174-dungeon-game) |
+| [0289-game-of-life](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0289-game-of-life) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
