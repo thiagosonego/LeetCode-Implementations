@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0174-dungeon-game) |
+| [0217-contains-duplicate](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
@@ -64,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
