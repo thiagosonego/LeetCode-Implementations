@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
