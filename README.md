@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0143-reorder-list) |
 ## Matrix
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
