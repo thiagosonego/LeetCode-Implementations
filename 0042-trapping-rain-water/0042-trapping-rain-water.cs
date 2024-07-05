@@ -33,7 +33,6 @@ public class Solution {
                 tempWater = 0;
             }
         }
-
         return totalWater;
     }
 }
