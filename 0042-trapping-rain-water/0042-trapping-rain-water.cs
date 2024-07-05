@@ -8,7 +8,7 @@ public class Solution {
         int tempWater = 0;
         int totalWater = 0;
 
-        for(int i = 0; i < height.Length; i++) {
+        for(int i = 0; i < size; i++) {
             if(highestValue > height[i]) {
                 tempWater += highestValue - height[i];
             }
@@ -20,10 +20,10 @@ public class Solution {
             }
         }
 
-        highestValue = height[height.Length - 1];
+        highestValue = height[size - 1];
         tempWater = 0;
 
-        for(int i = height.Length -1; i >= highestIndex; i--) {
+        for(int i = size -1; i >= highestIndex; i--) {
             if(highestValue > height[i]) {
                 tempWater += highestValue - height[i];
             }
