@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,9 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0289-game-of-life) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
