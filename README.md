@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0174-dungeon-game) |
 ## Recursion
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0174-dungeon-game) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0143-reorder-list) |
 ## Matrix
@@ -60,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0143-reorder-list) |
 ## Sorting
