@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0088-merge-sorted-array) |
 | [0174-dungeon-game](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0174-dungeon-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0289-game-of-life) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0012-integer-to-roman) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/thiagosonego/LeetCode-Implementations/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
